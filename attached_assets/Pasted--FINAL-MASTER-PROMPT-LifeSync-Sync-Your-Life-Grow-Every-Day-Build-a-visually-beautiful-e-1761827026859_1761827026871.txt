@@ -1,0 +1,243 @@
+🌿💫 FINAL MASTER PROMPT — “LifeSync: Sync Your Life, Grow Every Day”
+
+Build a visually beautiful, emotionally balanced, and interactive website called “LifeSync.”
+This is a UHV project designed to help users achieve complete well-being — physically, mentally, and socially — through reflection, wellness tracking, and daily activities.
+It should have a peaceful, nature-inspired design with a cute cat mascot that guides and encourages the user.
+
+🏡 🌸 Design & Theme
+
+Overall look: Decorative, calm, and uplifting, like a digital wellness garden.
+
+Add trees, flowers, petals, leaves, and soft clouds as moving or floating animations.
+
+Use a color palette of pink, blue, cyan, green, and their light & dark shades.
+
+Include both Light and Dark themes:
+
+🌞 Light theme → soft pastel background with floral visuals.
+
+🌙 Dark theme → black/navy background with glowing pastel highlights for text & icons.
+
+Typography: use a clean, rounded, calm font like Poppins, Nunito, or Quicksand.
+
+Keep design attractive, modern, and peaceful but also visually rich with nature-inspired elements.
+
+All dashboards should be aesthetic, colorful, and decorated yet minimal enough to keep focus.
+
+🔐 Login & Onboarding
+
+Black background for the login and registration pages — for clarity and visibility while entering details.
+
+Inputs: name, email, password (stored securely).
+
+After signing up → direct user to a Wellness Test Page (covering hydration, stress, focus, exercise, mood, diet).
+
+The system then generates a personalized wellness score and profile for the user.
+
+Store all data in database (Firebase / Supabase / MongoDB).
+
+Admin dashboard tracks total users and test insights.
+
+🐾 Mascot — Cat Companion
+
+A cute animated cat sits on the screen corner, appearing throughout the site.
+
+The cat greets, motivates, and reacts to the user’s data or mood.
+
+Examples:
+
+“Good morning, sunshine ☀️ Let’s make today peaceful.”
+
+“Time to hydrate! 💧”
+
+“You’re doing great — keep syncing your life 🐾”
+
+The cat can wink, stretch, or purr when the user completes tasks or logs habits.
+
+🗂️ Main Dashboards
+
+Each section should have its own dashboard, with decorative backgrounds, animated icons, progress graphs, and cat interactions.
+
+📝 To-Do Dashboard
+
+Add/edit/delete tasks.
+
+Productivity score with colorful graphs.
+
+🍅 Pomodoro Dashboard
+
+Timer with sessions and breaks.
+
+Cat motivates: “You earned your break, human! 🐾”
+
+💧 Water Tracker Dashboard
+
+Track glasses of water per day.
+
+Animated waves or bottles filling.
+
+🧘 Meditation Dashboard
+
+Play nature sounds, show session timers.
+
+Update mental health score automatically.
+
+🩺 Health Dashboard
+
+Sub-tabs for Mental, Physical, and Social health.
+
+Display well-being graphs and improvement trends.
+
+📓 Journal Dashboard
+
+Write daily reflections with auto-save.
+
+Cat prompts: “What went well today?”
+
+📚 Study Dashboard
+
+Timer and logs per subject.
+
+Track focus hours and progress.
+
+🎵 Emotion & Mood Dashboard
+
+Choose mood emojis (happy, tired, anxious, etc.).
+
+Mood tracker graph for week/month.
+
+🥗 Nutrition Dashboard
+
+Log meals and snacks.
+
+Suggest light food ideas.
+
+💤 Sleep Dashboard
+
+Input bedtime/wake-up time.
+
+Graphs showing sleep consistency.
+
+🏃‍♀️ Physical Activity Dashboard
+
+Track steps, workouts, yoga sessions.
+
+Visual representation of energy levels.
+
+💬 Social Connection Dashboard
+
+Record daily social interactions.
+
+Track connection frequency.
+
+📅 Habit Tracker Dashboard
+
+Add personal habits with streaks and progress bars.
+
+🕯️ Gratitude Dashboard
+
+Write things user is thankful for daily.
+
+Enhances positivity index.
+
+🌿 Mindfulness Dashboard
+
+Short guided breathing sessions.
+
+Calm floating animations and timer.
+
+🎯 Goals & Achievements Dashboard
+
+Display badges, streaks, and levels.
+
+Cat celebrates when goals are reached.
+
+📈 Analytics Dashboard
+
+Combines all dashboard stats.
+
+Shows overall LifeSync Score, improvements, and comparisons.
+
+🧩 🎮 Mind Games Dashboard (NEW!)
+
+Contains interactive cards with names or icons of simple mind games (puzzle, memory match, sudoku, etc.).
+
+On clicking each card → redirect to that Google Game or an external fun brain game.
+
+Decorative interface with soft neon highlights and peaceful pastel colors.
+
+Cat says things like:
+
+“Time to refresh your mind 🧠”
+
+“Play a quick game and come back recharged 🎮”
+
+💬 🌸 Feedback Dashboard (NEW!)
+
+A special dashboard dedicated to user feedback.
+
+Users must compulsorily fill this feedback section before exiting or completing a session.
+
+Fields: user experience, suggestions, favorite feature, improvements, rating (1–5).
+
+One prominent “Submit Google Form” button that redirects to an external Google Feedback Form.
+
+Data also stored in the site’s database for quick review.
+
+Cat encourages users:
+
+“Your feedback helps me grow too! 🐾”
+
+“Tell us what you loved and what we can improve 🌷”
+
+🧠 AI & Functional Features
+
+AI suggestion system that gives advice like:
+
+“You’ve been studying long, maybe stretch a bit?”
+
+“Low hydration detected, drink a glass of water 💧.”
+
+Gamification: earn points and unlock badges for consistency.
+
+Reminders: cat gives soft reminders for health and focus.
+
+Notifications: pop-up encouragements or streak updates.
+
+🧰 Data & Backend
+
+Storage: Firebase, Supabase, or MongoDB Atlas.
+
+Store:
+
+User profiles
+
+Wellness test data
+
+Dashboard entries (habits, moods, water, study logs, etc.)
+
+Feedback responses
+
+Charts: Chart.js or Recharts for visualization.
+
+Security: encrypted passwords, protected user sessions.
+
+⚙️ Tech Stack (Recommended)
+
+Frontend: React.js + Tailwind CSS
+
+Backend: Firebase / Supabase
+
+Database: Firestore / PostgreSQL
+
+Charts: Recharts or Chart.js
+
+Hosting: Vercel or Netlify
+
+Optional AI: OpenAI API / TensorFlow.js
+
+🎯 Overall Goal
+
+Create LifeSync — “Sync Your Life, Grow Every Day” 🌸
+A beautiful, interactive ecosystem for total well-being — decorated with trees, flowers, and peaceful colors.
+The user should feel they are walking through a calm digital garden of balance and self-growth, guided by their loyal cat companion 🐾.
