@@ -1,0 +1,220 @@
+🌿✨ LifeSync Detailed Dashboard Design Prompt
+
+Design a calm, colorful, and organized multi-dashboard web app for LifeSync — “Sync Your Life, Grow Every Day.”
+Below are the detailed instructions for each main section or dashboard.
+Each dashboard should have a consistent design theme (decorative, peaceful, cat-guided) and should track and visualize the user’s progress.
+
+🩺 1. Health Dashboard
+
+Purpose: To show an overview of the user’s physical, mental, and social well-being.
+Features:
+
+Three sections: Mental Health, Physical Health, Social Health.
+
+Each section represented by a circular progress chart.
+
+Data sourced from mood logs, sleep stats, activity tracker, and social interactions.
+
+Weekly and monthly health trends shown with colorful line charts.
+
+Tips generated automatically based on low-performing areas (e.g., “You haven’t socialized much lately, try talking to a friend!”).
+
+Cat’s interaction: “Your energy feels balanced today 🌼 Keep it up!”
+Visuals: Nature-inspired — flowers for mental, sun icon for physical, hearts for social.
+
+📓 2. Journal Dashboard
+
+Purpose: A personal space for emotional reflection and writing.
+Features:
+
+Text box for daily journaling with a date selector.
+
+Option to add a title, emoji, or “mood tag.”
+
+Auto-save entries; users can view past journals in a calendar format.
+
+Word counter and positive message after each entry (“Writing helps heal the mind 💌”).
+
+Cat interaction: “Tell me about your day… I’m listening 🐾”
+Visuals: Paper-textured background, glowing soft ink-like font, pastel accents.
+
+📚 3. Study Dashboard
+
+Purpose: To encourage focused study habits and track productivity.
+Features:
+
+Add subjects/topics, start timer, and log study duration.
+
+Weekly and monthly charts showing total study hours.
+
+Streak counter and productivity percentage indicator.
+
+Option to mark “completed topics.”
+
+Cat interaction: “Focus time activated! You got this 💪”
+Visuals: Desk theme, books, and plant decorations. Calm blue/green tones.
+
+😊 4. Mood Dashboard
+
+Purpose: To let users log their emotions and visualize mental health patterns.
+Features:
+
+Daily mood picker with icons (Happy, Sad, Angry, Tired, Sleepy, Excited, Calm, Neutral).
+
+Notes field to explain reason for mood.
+
+Weekly mood graph using emojis.
+
+Auto-analysis summary: “You’ve been calmer this week than last 🌸.”
+
+Cat interaction: reacts to moods — hugs if sad, dances if happy!
+Visuals: Sky gradient background, with floating clouds changing based on mood.
+
+🥗 5. Nutrition Dashboard
+
+Purpose: To help users maintain a balanced diet and eating routine.
+Features:
+
+Add meals (Breakfast, Lunch, Dinner, Snacks) with food names or types.
+
+Calorie or energy meter (optional manual input).
+
+Daily and weekly nutrient trend graph.
+
+Suggestions: “Add more fruits today 🍎” or “Great job balancing your meals!”
+
+Cat interaction: “Yum! That meal looks healthy 🐾”
+Visuals: Plate and fruit illustrations, pastel green and yellow colors.
+
+💤 6. Sleep Dashboard
+
+Purpose: To track sleep patterns and rest quality.
+Features:
+
+Inputs for bedtime, wake-up time, total sleep hours.
+
+Auto-graph showing sleep consistency over a week.
+
+Smart insights: “You slept better on weekends — aim for consistency.”
+
+Cat interaction: “You deserve a nap 😴 Don’t forget to rest.”
+Visuals: Night-sky theme, stars twinkling, moon animation.
+
+🏃‍♀️ 7. Activity Dashboard
+
+Purpose: To record workouts and physical activities.
+Features:
+
+Add activity (Running, Yoga, Walk, Sports, Gym).
+
+Duration and intensity input fields.
+
+Calories burned estimate (optional).
+
+Streak tracker and motivational badges (“Fitness Champ”, “5-Day Streak”).
+
+Graph of activity over time.
+
+Cat interaction: “Wow, look at you go! 🐾 So active today!”
+Visuals: Sporty vibe but with a soft background — pastel orange and teal tones.
+
+💬 8. Social Dashboard
+
+Purpose: To remind users to maintain healthy social connections.
+Features:
+
+Daily “interaction log” (e.g., talked with friend/family/colleague).
+
+Option to note how it made them feel.
+
+Weekly summary graph of interaction frequency.
+
+Cat reminder: “Haven’t talked to anyone today? A small ‘hi’ can brighten a day 🌞.”
+Visuals: Warm color palette (peach and coral), with chat bubbles or hearts.
+
+🌱 9. Habits Dashboard
+
+Purpose: To help users build positive habits and maintain consistency.
+Features:
+
+Add new habits with custom icons (e.g., “Read 10 pages”, “Stretch”, “Drink water”).
+
+Daily completion toggle (checkbox or slider).
+
+Habit streaks, success rate percentage.
+
+Reward messages for completing streaks.
+
+Cat: “Consistency is key — proud of you 🐾”
+Visuals: Minimal plant growth theme (plant growing as streak continues).
+
+🌸 10. Gratitude Dashboard
+
+Purpose: To encourage users to appreciate small joys daily.
+Features:
+
+Add 3 things the user is grateful for each day.
+
+Option to tag with emojis or categories (health, family, nature, etc.).
+
+Random past gratitude entries shown as “memory reminders.”
+
+Cat interaction: “You’re blessed in so many ways 🌼 Remember that.”
+Visuals: Golden morning theme with flowers and hearts.
+
+🧘 11. Mindfulness Dashboard
+
+Purpose: To promote awareness, calmness, and relaxation.
+Features:
+
+Guided breathing animation (inhale/exhale timer).
+
+Short mindfulness exercises (e.g., “Name 3 things you see around you”).
+
+Meditation music link integration.
+
+Daily reflection question (“What made you smile today?”).
+
+Cat: “Take a deep breath, hold… exhale 🌿 Feel the peace.”
+Visuals: Floating bubbles or soft ripples, pastel blue theme.
+
+🎯 12. Goals Dashboard
+
+Purpose: To set and track personal goals with motivation and rewards.
+Features:
+
+Add short-term and long-term goals with target dates.
+
+Progress bar per goal.
+
+“Achievements” section for completed goals (with confetti animation 🎉).
+
+Weekly reminders to stay on track.
+
+Cat: “One step closer to your dreams 🌠 Keep going!”
+Visuals: Mountain or path to sunrise theme, vibrant pastel shades.
+
+📊 Overall Analytics Panel (auto-summarized from all dashboards)
+
+Purpose: Give users an overview of their complete well-being.
+Features:
+
+Combined charts showing data from all dashboards.
+
+Personal “LifeSync Score” out of 100 (calculated from health, mood, sleep, study, habits).
+
+Weekly/Monthly trend graph.
+
+Cat gives encouraging summary: “You’re growing beautifully 🌻.”
+
+💡 Common Features Across All Dashboards
+
+Cat companion always visible in the bottom corner with floating message bubble.
+
+Soothing background music option (toggle).
+
+Option to export or share progress reports.
+
+Daily quote or affirmation on each dashboard.
+
+Decorative icons and animations for positive emotional impact.

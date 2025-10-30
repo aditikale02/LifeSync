@@ -21,6 +21,18 @@ import MeditationPage from "@/pages/meditation";
 import GamesPage from "@/pages/games";
 import FeedbackPage from "@/pages/feedback";
 import AnalyticsPage from "@/pages/analytics";
+import HealthPage from "@/pages/health";
+import JournalPage from "@/pages/journal";
+import StudyPage from "@/pages/study";
+import MoodPage from "@/pages/mood";
+import NutritionPage from "@/pages/nutrition";
+import SleepPage from "@/pages/sleep";
+import ActivityPage from "@/pages/activity";
+import SocialPage from "@/pages/social";
+import HabitsPage from "@/pages/habits";
+import GratitudePage from "@/pages/gratitude";
+import MindfulnessPage from "@/pages/mindfulness";
+import GoalsPage from "@/pages/goals";
 import { useState } from "react";
 
 function Router() {
@@ -34,6 +46,18 @@ function Router() {
       <Route path="/pomodoro" component={PomodoroPage} />
       <Route path="/water" component={WaterPage} />
       <Route path="/meditation" component={MeditationPage} />
+      <Route path="/health" component={HealthPage} />
+      <Route path="/journal" component={JournalPage} />
+      <Route path="/study" component={StudyPage} />
+      <Route path="/mood" component={MoodPage} />
+      <Route path="/nutrition" component={NutritionPage} />
+      <Route path="/sleep" component={SleepPage} />
+      <Route path="/activity" component={ActivityPage} />
+      <Route path="/social" component={SocialPage} />
+      <Route path="/habits" component={HabitsPage} />
+      <Route path="/gratitude" component={GratitudePage} />
+      <Route path="/mindfulness" component={MindfulnessPage} />
+      <Route path="/goals" component={GoalsPage} />
       <Route path="/games" component={GamesPage} />
       <Route path="/feedback" component={FeedbackPage} />
       <Route path="/analytics" component={AnalyticsPage} />
